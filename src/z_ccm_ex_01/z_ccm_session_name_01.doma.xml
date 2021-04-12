@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000006</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <DDTEXT>Session Name</DDTEXT>
+    <DOMMASTER>E</DOMMASTER>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>A4H</DOMVALUE_L>
+     <DDTEXT>ABAP for HANA</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H269</DOMVALUE_L>
+     <DDTEXT>Authorizations within the ABAP Programming Model for SAP S/4</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H276</DOMVALUE_L>
+     <DDTEXT>Building a Fiori List Report App: ABAP Programming Model for</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H279</DOMVALUE_L>
+     <DDTEXT>Building a transactional Fiori App: ABAP Programming Model f</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H630</DOMVALUE_L>
+     <DDTEXT>SAP Fiori: Development on Core Data Services (1h CodeJam min</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>Z_CCM_SESSION_NAME_01</DOMNAME>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>S4H</DOMVALUE_L>
+     <DDTEXT>ABAP for HANA</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
